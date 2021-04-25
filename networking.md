@@ -5,6 +5,8 @@
 ```sh
 00001010.00000000 | 00000000.00000000 # 10.0.0.0/16
 ```
+VPC flow logs in CloudWatch log group: `vpc_flow_logs` 
+
 ## Subnets
 Three private, three public across 3 availability zones.
 ### Private
