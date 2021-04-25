@@ -1,5 +1,6 @@
-# Network
-Source: [/server/aws/networking.tf](https://github.com/cds-snc/covid-alert-server-staging-terraform/blob/master/server/aws/networking.tf)
+# Networking
+**Source:** [/server/aws/networking.tf](https://github.com/cds-snc/covid-alert-server-staging-terraform/blob/master/server/aws/networking.tf)
+
 ## VPC
 ```sh
 00001010.00000000 | 00000000.00000000 # 10.0.0.0/16
